@@ -1,0 +1,15 @@
+
+Author : Mithun Deshpande
+B-ID   : B00670658
+
+To run:
+
+g++ Array_test.cpp MyInt.cpp -g -std=c++14 -ldl -Wall -Wextra -pedantic
+
+- No memory errors
+
+Reference:
+
+- No references used.
+
+
