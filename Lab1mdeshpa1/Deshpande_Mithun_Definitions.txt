@@ -1,0 +1,44 @@
+
+
+
+This txt file contains high level description of five linux commands and what I learn something new for each command.
+
+
+
+ 
+
+
+Command : find
+Desc    : This command is used to locate/search files and directories present throughout the filesystem.Moreover the search result can be refined as per the criteria given, by executing the other commands on the search results.
+My Learning : I have learned how to run grep command to find particular matches on find files and directories.Have also learned about how to find non match pattern files.
+
+
+
+
+Command : sed
+Desc    : This command is used to manipulate files for replacement,insertion,deletion and modification of a word or characters within a file.It is called as a Strem Editor. We can even write bunch of commands like scripts (series of commands) to perform operations on files.It is very powerful tool used for file manipulation.
+My Learning : I have learned the mechanism of Sed. It is divided into four steps and those are reading input stream, execution using pattern space and hold buffer (it acts as a temporary buffer) and finally produces the output stream with result on the screen.
+
+
+
+
+Command : finger
+Desc    : This command is used to display the user information on the system.It prints out the login name, recent login time, terminal name currently working on,and any office number or location updated in the system. 
+My Learning : I have run it first time and understood.
+
+
+
+
+Command : top	
+Desc    : It is used to display all currently running processes on the system. There are options to sort the output by memory or cpu usages depending on the requirement.And it updates the screen for new processes every few seconds.
+My Learning : I have learned it for the first time.
+
+
+
+
+Command : rm 
+Desc    : This command is used to remove or delete files or directories from the system.There is an option to ask before deleting any files/directories to make sure for deletion operation. It can delete forcefully too. 
+My Learning : Before it , I don't know how to delete directories with rm however I have learned how to delete files and directories interactively with prompt and forcefully.
+   
+    
+ 
